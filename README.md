@@ -1,2 +1,1 @@
-# merdinha.com.br
-Juremilda
+# Juremilda
